@@ -11,8 +11,8 @@ describe("Produto XPTO", () => {
    * caso de teste criado na sua ferramenta de gerenciamento de teste.
    */
   it("[CT-0001] - Realizar o cadastro de pessoa física", () => {
-    /* Arrange */
-    /* Act */
-    /* Assert */
+    /* Arrange (Organizar) */
+    /* Act (Agir) */
+    /* Assert (Afirmar)*/
   });
 });
