@@ -1,10 +1,11 @@
 {
-  "name": "9.chapter-nine",
+  "name": "2.chapter-two",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "mocha ./tests/**/**/**.js"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
