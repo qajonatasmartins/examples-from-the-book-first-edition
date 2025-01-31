@@ -1,0 +1,16 @@
+{
+  "name": "decisioncoverage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/**/**/**.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^4.5.0",
+    "mocha": "^11.0.1"
+  }
+}
