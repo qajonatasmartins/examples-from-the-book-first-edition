@@ -6,7 +6,7 @@
     "test": "npx playwright test",
     "ui-mode": "npx playwright test --ui",
     "chrome-test": "npx playwright test --project=chromium",
-    "test-example": "npx playwright test example",
+    "test-example": "npx playwright test login",
     "test-debug": "npx playwright test --debug",
     "codegen": "npx playwright codegen"
   },
