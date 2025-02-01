@@ -1,0 +1,21 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "ui-mode": "npx playwright test --ui",
+    "chrome-test": "npx playwright test --project=chromium",
+    "test-example": "npx playwright test example",
+    "test-debug": "npx playwright test --debug",
+    "codegen": "npx playwright codegen"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.0"
+  }
+}
