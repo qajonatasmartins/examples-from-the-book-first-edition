@@ -5,7 +5,7 @@ export class LoginActions {
   private interactions: LoginInteractions;
 
   constructor(private page: Page) {
-    this.interactions = new LoginInteractions(page);
+    this.interactions = new LoginInteractions(this.page);
   }
 
   /**
