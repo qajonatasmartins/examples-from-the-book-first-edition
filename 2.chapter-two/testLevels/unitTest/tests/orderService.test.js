@@ -3,7 +3,7 @@ const { describe, it } = require("mocha");
 const { assert } = require("chai");
 
 class MockDatabase {
-  async getItems(orderId) {
+  async getItems() {
     return [
       {
         price: 10,
